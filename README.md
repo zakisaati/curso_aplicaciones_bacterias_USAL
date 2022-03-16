@@ -58,7 +58,7 @@ Este curso lo impartirán profesores/investigadores del Departamento de Microbio
 ## Inscripción, precio y certificado del curso
 
 La inscripción se realizará a través de la web del Centro de Formación Permanente. Para acceder al curso podéis hacer click en este 
-[enlace](http://vaporetto.usal.es/preactform/detalleCurso?codigo_curso=5525&ano_academico=2022&convocatoria=1) o copiar y pegar la siguiente dirección web en vuestros navegaores:
+[enlace](http://vaporetto.usal.es/preactform/detalleCurso?codigo_curso=5525&ano_academico=2022&convocatoria=1) o copiar y pegar la siguiente dirección web en vuestros navegadores:
 http://vaporetto.usal.es/preactform/detalleCurso?codigo_curso=5525&ano_academico=2022&convocatoria=1
 
 El precio del curso es de 37 euros.
