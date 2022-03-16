@@ -1,4 +1,4 @@
-![.](./Imágenes/Logo.png)
+![.](./Imágenes/logo.png)
 
 # CURSO: Búsqueda y evaluación de cepas bacterianas con aplicaciones biotecnológicas, investigación en laboratorio y análisis de genomas
 
