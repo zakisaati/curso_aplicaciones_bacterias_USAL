@@ -36,12 +36,15 @@ No es necesario tener conocimientos avanzados de Microbiología para realizar el
 
 ## Profesorado
 
-Este curso lo impartirán profesores/investigadores del Departamento de Microbiología y Genética de la Universidad de Salamanca
+Este curso lo impartirán profesores/investigadores del Departamento de Microbiología y Genética de la Universidad de Salamanca:
 
-[Zaki Saati Santamaría](https://www.researchgate.net/profile/Zaki-Saati-Santamaria)
-[Lorena Carro García](https://www.researchgate.net/profile/Lorena-Carro)
-[Esther Menéndez Gutiérrez](https://www.researchgate.net/profile/Esther-Menendez)
-[Lihuén Iraí González Dominici](https://www.researchgate.net/profile/Esther-Menendez)
+[Zaki Saati Santamaría](https://produccioncientifica.usal.es/investigadores/148198/detalle)
+
+[Lorena Carro García](https://produccioncientifica.usal.es/investigadores/148391/detalle)
+
+[Esther Menéndez Gutiérrez](https://produccioncientifica.usal.es/investigadores/147952/detalle)
+
+[Lihuén Iraí González Dominici](https://www.researchgate.net/profile/Lihuen-Gonzalez-Dominici)
 
 ## Inscripción, precio y certificado del curso
 
@@ -54,6 +57,8 @@ El precio del curso es de 37 euros.
 Al finalizar el curso se emitirá un certificado oficial de 10 horas de trabajo.
 
 ## La Universidad de Salamanca y el Centro de Formación Permanente
+
+La [Universidad de Salamanca](https://www.usal.es/) acoge cada año a miles de estudiantes de distintas titulaciones. Dentro de esta Universidad se establece el [Centro de Formación Permanente](https://formacionpermanente.usal.es/), el cual dedica sus esfuerzos a la organización de cursos de formación específica oficiales, entre otras tareas.
 
 ### Contacto
 Zaki Saati Santamaría: zakisaati@usal.es
