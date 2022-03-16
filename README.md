@@ -2,10 +2,10 @@
 
 En esta web se detallan las características del curso de Formación Permanente de la Universidad de Salamanca titulado ["Búsqueda y evaluación de cepas bacterianas con aplicaciones biotecnológicas, investigación en laboratorio y análisis de genomas"](http://vaporetto.usal.es/preactform/detalleCurso?codigo_curso=5525&ano_academico=2022&convocatoria=1).
 
-## ¿Cuándo y dónde se va a realizar?
+## ¿Dónde y cuándo se va a realizar?
 
+El curso tiene carácter presencial y será desarrollado principalmente en el laboratorio B-06 del Edificio Departamental de Biología (ver ubicación [aquí](https://www.google.es/maps/place/Edificio+Departamental+de+la+Facultad+de+Biolog%C3%ADa/@40.9655671,-5.6772085,19z/data=!4m5!3m4!1s0xd3f2639ff2cb7a9:0x70e6910c896ce196!8m2!3d40.9652583!4d-5.6770244)), aunque el segundo día iremos juntos a un aula de informática de la Facultad de Farmacia.
 
-[Aquí](https://www.google.es/maps/place/Edificio+Departamental+de+la+Facultad+de+Biolog%C3%ADa/@40.9655671,-5.6772085,19z/data=!4m5!3m4!1s0xd3f2639ff2cb7a9:0x70e6910c896ce196!8m2!3d40.9652583!4d-5.6770244)
 ## ¿En qué consiste el curso? Contenido
 
 Día 09/05/2022 (Laboratorio B-06, Edificio Departamental de Biología)
