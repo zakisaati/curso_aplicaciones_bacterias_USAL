@@ -32,8 +32,28 @@ Día 20/05/2022: Fecha fin de entrega de actividades (3 horas de ejercicios en c
 
 ## ¿A quién está dirigido el curso?
 
+No es necesario tener conocimientos avanzados de Microbiología para realizar el curso, aunque sí recomendamos tener conocimientos básicos de Biología (Llicenciados, diplomados, graduados y alumnos universitarios vinculados a las ramas de conocimiento de Ciencias tales como Ciencias Ambientales, Biología, Biotecnología, Farmacia, Ingeniería Agrícola, Ingeniería Técnica Agrícola, Ingeniería Agroalimentaria, Ingeniería Química, etc.  así como personas que hayan realizado ciclos de formación profesional vinculados a ciencias experimentales y de laboratorio.)
+
 ## Profesorado
+
+Este curso lo impartirán profesores/investigadores del Departamento de Microbiología y Genética de la Universidad de Salamanca
+
+[Zaki Saati Santamaría](https://www.researchgate.net/profile/Zaki-Saati-Santamaria)
+[Lorena Carro García](https://www.researchgate.net/profile/Lorena-Carro)
+[Esther Menéndez Gutiérrez](https://www.researchgate.net/profile/Esther-Menendez)
+[Lihuén Iraí González Dominici](https://www.researchgate.net/profile/Esther-Menendez)
+
+## Inscripción, precio y certificado del curso
+
+La inscripción se realizará a través de la web del Centro de Formación Permanente. Para acceder al curso podéis hacer click en este 
+["enlace"](http://vaporetto.usal.es/preactform/detalleCurso?codigo_curso=5525&ano_academico=2022&convocatoria=1) o copiar y pegar la siguiente dirección web en vuestros navegaores:
+http://vaporetto.usal.es/preactform/detalleCurso?codigo_curso=5525&ano_academico=2022&convocatoria=1
+
+El precio del curso es de 37 euros.
+
+Al finalizar el curso se emitirá un certificado oficial de 10 horas de trabajo.
 
 ## La Universidad de Salamanca y el Centro de Formación Permanente
 
 ### Contacto
+Zaki Saati Santamaría: zakisaati@usal.es
