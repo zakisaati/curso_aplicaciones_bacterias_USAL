@@ -79,3 +79,7 @@ Lorena Carro García: lcg@usal.es
 Ester Menéndez: esthermenendez@usal.es
 
 Lihuén I. González Dominici: lihuengd@usal.es
+
+---
+#### Palabras clave
+Biotecnología; Microbiología; Bacterias; Producción de antibióticos; Microbiología industrial; Genómica; Genomas; Biorremediación; Biofertilizantes
