@@ -7,7 +7,7 @@ En esta web se detallan las características del curso de Formación Permanente 
 
 El curso tiene carácter presencial y será desarrollado principalmente en el laboratorio B-06 del Edificio Departamental de Biología, dentro del Campus Unamuno de la Universidad de Salamanca (ver ubicación [aquí](https://www.google.es/maps/place/Edificio+Departamental+de+la+Facultad+de+Biolog%C3%ADa/@40.9655671,-5.6772085,19z/data=!4m5!3m4!1s0xd3f2639ff2cb7a9:0x70e6910c896ce196!8m2!3d40.9652583!4d-5.6770244)), aunque el segundo día iremos juntos a un aula de informática de la Facultad de Farmacia.
 
-Se realizará los días 9 y 16 de mayo (ambos lunes). El curso terminará de forma oficial el día 20 de mayo tras la entrega de unos pequeños ejercicios a realizar de forma autónoma
+Se realizará los días 9 y 16 de mayo (ambos lunes). El curso terminará de forma oficial el día 20 de mayo, fecha límite para la entrega de unos pequeños ejercicios a realizar de forma autónoma
 
 ---
 ## ¿En qué consiste el curso? Contenido
